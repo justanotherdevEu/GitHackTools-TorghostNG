@@ -5,7 +5,7 @@ This repository is from old site https://github.com/githacktools/TorghostNG but,
 
 i ignore the reason why profile githacktools from Github, but i would prefer to copy here so it keeps protected.
 
-For my eyes, seems like a in danger of extinction repository, so here it will remain 
+For my eyes, seems like an in-danger-of-extinction repository, so here it will remain 
 
 for it's use, first of all u should use it on Linux or at least a Virtual Machine with Linux
 on a website i read this tool was tested on Kali Linux, Manjaro, also...
