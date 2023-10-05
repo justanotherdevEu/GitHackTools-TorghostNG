@@ -3,7 +3,7 @@
 
 This repository is from old site https://github.com/githacktools/TorghostNG but, i downloaded it from https://github.com/84KaliPleXon3/GitHackTools-TorghostNG
 
-i ignore the reason why profile githacktools from Github, but i would prefer to copy here so it keeps protected.
+i ignore the reason why profile githacktools from Github got deleted, but i would prefer to copy here so it keeps protected.
 
 For my eyes, seems like an in-danger-of-extinction repository, so here it will remain 
 
